@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valerii-chirkov
 - 👀 I’m interested in Programming and Management approaches 
-- 🌱 I’m currently learning Python 
+- 🌱 Python 3, Django.
 - 💞️ I’m looking to collaborate on financial projects (primary)
 - 📫 How to reach me: telegram @rebel_sable, email:valerii_chirkov@bk.ru
 
