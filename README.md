@@ -24,7 +24,8 @@ Hello Ladies and Gentlemen, I'm Valerii, a 22 y.o. Python Full-Stack Developer f
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Fish](https://img.shields.io/badge/shell-fish-121011?style=for-the-badge&logo=shell-fish&logoColor=blue)
+![Vim](https://camo.githubusercontent.com/e64bb11ed6153111991897e0acd0e0ad27f67f7d7c617f196861224cf96e9ade/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465)
 
 ## OS & Tools
 
