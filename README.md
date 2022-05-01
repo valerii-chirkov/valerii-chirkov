@@ -1,8 +1,8 @@
-<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg" alt="A guy using a laptop sitting on a laptop LMAO">
+<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg" alt="A guy using a laptop sitting on a laptop">
 
 ## Info
 
-Hello Ladies and Gentlemen, I'm Valerii, a 22 y.o. Python Full-Stack Developer from Russia 🇷🇺.
+Hello Ladies and Gentlemen, I'm Valerii, a 23 y.o. Python Full-Stack Developer from Russia 🇷🇺.
 
 - I'm currently developing my own project, but open for commercials.
 - Bachelor in Management and I am fond of Management approaches in tech fields.
@@ -24,20 +24,15 @@ Hello Ladies and Gentlemen, I'm Valerii, a 22 y.o. Python Full-Stack Developer f
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Fish](https://img.shields.io/badge/shell-fish-121011?style=for-the-badge&logo=shell-fish&logoColor=blue)
-![Vim](https://camo.githubusercontent.com/e64bb11ed6153111991897e0acd0e0ad27f67f7d7c617f196861224cf96e9ade/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465)
 
 ## OS & Tools
 
 ![MacOS](https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
