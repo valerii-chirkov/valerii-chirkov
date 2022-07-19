@@ -2,7 +2,7 @@
 
 ## Info
 
-I'm Valerii, a 23 y.o. Python Full-Stack Developer from Russia 🇷🇺.
+I'm Valerii, Python Full-Stack Developer.
 
 
 ## How to reach me
