@@ -4,7 +4,7 @@
 
 I'm Valerii, Python Full-Stack Developer.
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=valerii-chirkov&left_color=white&right_color=blue)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=valerii-chirkov&left_color=black&right_color=blue)
 
 ## How to reach me
 
