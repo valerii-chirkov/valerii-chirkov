@@ -5,6 +5,7 @@
 I'm Valerii, Python Full-Stack Developer.
 
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=valerii-chirkov&left_color=black&right_color=blue)
+[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/15761608)](https://stackoverflow.com/users/15761608/valerii)
 
 ## How to reach me
 
