@@ -23,10 +23,8 @@ I'm Valerii, Python Full-Stack Developer.
 ## OS & Tools
 
 ![MacOS](https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 
